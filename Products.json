@@ -1,6 +1,6 @@
 [
   {
-    "SKU": "21E-8GXY",
+    "SKU": "21E-86XY",
     "Name": "OptiPlex 7010 Tower",
     "Family": "optiplex",
     "Price": 899,
@@ -8,7 +8,7 @@
     "RAM_GB": 16,
     "Storage": "512GB SSD",
     "GPU": "Intel UHD Graphics",
-    "Link": "https://www.dell.com/en-us/shop/optiplex-7010-tower/spd/optiplex-7010-desktop/21E-8GXY",
+    "Link": "https://www.dell.com/en-us/shop/optiplex-7010-tower/spd/optiplex-7010-desktop/21E-86XY",
     "Image": "https://i.dell.com/is/image/DellContent/optiplex7010.jpg",
     "FormFactor": "desktop"
   },
