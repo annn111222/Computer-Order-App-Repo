@@ -1,0 +1,54 @@
+[
+  {
+    "SKU": "210-BGXY",
+    "Name": "OptiPlex 7010 Tower",
+    "Family": "optiplex",
+    "Price": 899,
+    "CPU": "Intel Core i5-13500",
+    "RAM_GB": 16,
+    "Storage": "512GB SSD",
+    "GPU": "Intel UHD Graphics",
+    "Link": "https://www.dell.com/en-us/shop/optiplex-7010-tower/spd/optiplex-7010-desktop/210-bgxy",
+    "Image": "https://i.dell.com/is/image/DellContent/optiplex7010.jpg",
+    "FormFactor": "desktop"
+  },
+  {
+    "SKU": "210-CABC",
+    "Name": "Latitude 5440",
+    "Family": "latitude",
+    "Price": 1299,
+    "CPU": "Intel Core i7-1365U",
+    "RAM_GB": 16,
+    "Storage": "512GB SSD",
+    "GPU": "Intel Iris Xe",
+    "Link": "https://www.dell.com/en-us/shop/latitude-5440-laptop/spd/latitude-14-5440-laptop/210-cabc",
+    "Image": "https://i.dell.com/is/image/DellContent/latitude5440.jpg",
+    "FormFactor": "laptop"
+  },
+  {
+    "SKU": "210-DEFG",
+    "Name": "Precision 5680 Mobile Workstation",
+    "Family": "precision",
+    "Price": 2499,
+    "CPU": "Intel Core i9-13900H",
+    "RAM_GB": 32,
+    "Storage": "1TB SSD",
+    "GPU": "NVIDIA RTX 3000 Ada",
+    "Link": "https://www.dell.com/en-us/shop/precision-5680-mobile-workstation/spd/precision-16-5680-workstation/210-defg",
+    "Image": "https://i.dell.com/is/image/DellContent/precision5680.jpg",
+    "FormFactor": "laptop"
+  },
+  {
+    "SKU": "210-HIJK",
+    "Name": "Precision 3660 Tower Workstation",
+    "Family": "precision",
+    "Price": 1899,
+    "CPU": "Intel Core i7-13700",
+    "RAM_GB": 32,
+    "Storage": "1TB SSD",
+    "GPU": "NVIDIA T1000",
+    "Link": "https://www.dell.com/en-us/shop/precision-3660-tower-workstation/spd/precision-3660-workstation/210-hijk",
+    "Image": "https://i.dell.com/is/image/DellContent/precision3660.jpg",
+    "FormFactor": "desktop"
+  }
+]
